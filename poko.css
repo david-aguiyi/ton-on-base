@@ -329,8 +329,8 @@ a p {
 
 button {
     font-weight: 900;
-    background-color: #ffb500;
-    /* color: rgb(39, 26, 26); */
+    background-color: #0061ff;
+    color: #ffffff !important;
     cursor: pointer;
     color: #000000;
     display: none;
